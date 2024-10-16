@@ -7,7 +7,7 @@ Y, Jeon., S. Shashaani,  2024. “CALIBRATING DIGITAL TWINS VIA BAYESIAN OPTIMIZ
 
 ## Modified acquisition function
 BOwRF requires modified acquisition functions, where we denote subscript "RF" to distinguish them from the traditional acquisition functions (within the minimization setting).
-[Pdf](https://shashaani.wordpress.ncsu.edu/files/2024/05/wsc24-dt.pdf)
+[pdf](https://shashaani.wordpress.ncsu.edu/files/2024/05/wsc24-dt.pdf)
 | Acquisition function | Closed-form expression |
 |-----------------|-----------------|
 | $\text{UCB}(\theta)$    | $\mu(\theta) + \lambda \sigma(\theta)$   |
