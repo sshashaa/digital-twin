@@ -5,6 +5,7 @@ Bayesian Optimization (BO) is a prominent tool for finding the optimum of the ex
 
 Y, Jeon., S. Shashaani,  2024. “CALIBRATING DIGITAL TWINS VIA BAYESIAN OPTIMIZATION WITH A ROOT FINDING STRATEGY”. In 2024 Winter Simulation Conference (WSC)
 [pdf](https://shashaani.wordpress.ncsu.edu/files/2024/05/wsc24-dt.pdf)
+
 ## Modified acquisition function
 BOwRF requires modified acquisition functions, where we denote subscript "RF" to distinguish them from the traditional acquisition functions (within the minimization setting).
 
