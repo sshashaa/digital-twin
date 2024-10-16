@@ -4,10 +4,10 @@
 Bayesian Optimization (BO) is a prominent tool for finding the optimum of the expensive-to-evaluate function. In this repository, we provide a root-finding scheme adapted BO that is particularly useful when calibrating the virtual model (digital twin) to their real-world counterparts. Posted codes and figures are based on the paper that will be published in the Winter Simulation Conference (WSC 2024).
 
 Y, Jeon., S. Shashaani,  2024. “CALIBRATING DIGITAL TWINS VIA BAYESIAN OPTIMIZATION WITH A ROOT FINDING STRATEGY”. In 2024 Winter Simulation Conference (WSC)
-
+[pdf](https://shashaani.wordpress.ncsu.edu/files/2024/05/wsc24-dt.pdf)
 ## Modified acquisition function
 BOwRF requires modified acquisition functions, where we denote subscript "RF" to distinguish them from the traditional acquisition functions (within the minimization setting).
-[pdf](https://shashaani.wordpress.ncsu.edu/files/2024/05/wsc24-dt.pdf)
+
 | Acquisition function | Closed-form expression |
 |-----------------|-----------------|
 | $\text{UCB}(\theta)$    | $\mu(\theta) + \lambda \sigma(\theta)$   |
